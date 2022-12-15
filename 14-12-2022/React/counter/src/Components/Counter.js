@@ -1,13 +1,14 @@
 import React, { useState } from 'react'
 
 function Counter() {
+    
     const [counter, setCounter] = useState(0);
     const [like, setLike] = useState(true);
     // count = 2;
     function handleDecrement() {
         if (counter > 0) {
             setCounter(counter - 1);
-            console.log(counter); //2
+          console.log(counter); //2
         }
         else {
             console.log("Cannot buy a product in negative quantity")
@@ -21,7 +22,7 @@ function Counter() {
     function handleCounter(e) {
         setCounter(parseInt(e.target.value));
     }
-
+  
   return (
     <div className="counter">
       <button onClick={() => setCounter(counter + 1)}>+</button>
