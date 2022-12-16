@@ -9,3 +9,11 @@ https://javascript.info/fetch
 https://medium.com/@t93/states-and-componentdidmount-in-functional-components-with-hooks-cac5484d22ad
 
 https://reactjs.org/docs/react-component.html
+
+16/12/22
+
+https://dev.to/holdmypotion/using-react-context-api-like-a-pro-13k5
+
+https://dev.to/shareef/react-usestate-hook-is-asynchronous-1hia
+
+https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/

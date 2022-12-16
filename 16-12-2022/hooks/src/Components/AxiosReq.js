@@ -1,14 +1,18 @@
 import React, { useState , useEffect} from "react";
-
-function FetchReq() {
+import axios from 'axios';
+function AxiosReq() {
     const [userData, setUserData] = useState('');
     const [count, setCount] = useState(0);
     useEffect(() => {
         console.log("useEffect is called")
         const fetchData = async () => {
-            const req = await fetch("https://api.github.com/users/goelabhishek694");
-            const data = await req.json();
-            console.log(data);
+            try {
+                const req = await axios.post("https://api.github.com/users/goelabhishek694");
+                console.log(req.data);
+            }
+            catch(err){
+                console.log("error",err.message);
+            }
         }
         fetchData();
     },[])
@@ -34,4 +38,4 @@ function FetchReq() {
   );
 }
 
-export default FetchReq
+export default AxiosReq
