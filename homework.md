@@ -17,3 +17,7 @@ https://dev.to/holdmypotion/using-react-context-api-like-a-pro-13k5
 https://dev.to/shareef/react-usestate-hook-is-asynchronous-1hia
 
 https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/
+
+17/12/22
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
