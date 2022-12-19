@@ -21,3 +21,7 @@ https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/
 17/12/22
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+19/12/22
+
+https://javascript.info/arrow-functions
