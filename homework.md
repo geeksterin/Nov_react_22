@@ -25,3 +25,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 19/12/22
 
 https://javascript.info/arrow-functions
+
+20/12/22
+
+https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/
