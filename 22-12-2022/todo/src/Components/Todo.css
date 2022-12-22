@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+}
+
+.delete_btn{
+    background-color: red;
+    border-radius: 50%;
+    margin-top:0ch 1rem;
+    margin-left: 2rem;
+    height: 1.5rem;
+}
