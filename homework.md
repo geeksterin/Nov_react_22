@@ -37,3 +37,7 @@ https://www.freecodecamp.org/news/regular-expressions-for-beginners/
 28/12/22
 
 https://reactjs.org/docs/hooks-state.html
+
+3/1/23
+
+https://reactjs.org/docs/hooks-effect.html
