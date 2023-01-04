@@ -41,3 +41,9 @@ https://reactjs.org/docs/hooks-state.html
 3/1/23
 
 https://reactjs.org/docs/hooks-effect.html
+
+4/1/23
+
+https://blog.logrocket.com/react-context-api-deep-dive-examples/
+
+https://reactjs.org/docs/context.html#before-you-use-context
