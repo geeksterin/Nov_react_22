@@ -55,3 +55,7 @@ https://reactjs.org/docs/context.html#before-you-use-context
 7/1/23
 
 https://beta.reactjs.org/reference/react/useMemo
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
+
+https://beta.reactjs.org/reference/react/useCallback
