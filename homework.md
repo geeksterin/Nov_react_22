@@ -51,3 +51,7 @@ https://reactjs.org/docs/context.html#before-you-use-context
 6/1/23
 
 https://reactjs.org/docs/context.html#before-you-use-context
+
+7/1/23
+
+https://beta.reactjs.org/reference/react/useMemo
