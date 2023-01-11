@@ -59,3 +59,7 @@ https://beta.reactjs.org/reference/react/useMemo
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
 
 https://beta.reactjs.org/reference/react/useCallback
+
+11/1/23
+
+https://blog.logrocket.com/understanding-redux-tutorial-examples/
