@@ -3,10 +3,13 @@ import { connect } from "react-redux";
 function Ball({ballss,sellBall}) {
     // props.balls
     // const [balls, setBalls] = useState(50);
+    //number of balls needed to be bought by customer
+    const [qty, setQty] = useState(1);
   return (
     <div>
       <h1>Balls:{ballss}</h1>
-      <button onClick={() => sellBall()}>Buy</button>
+      <input type="number" value={qty} onChange={(e)=>setQty(e.target.value)}></input>
+      <button onClick={() => sellBall(qty)}>Buy</button>
     </div>
   );
 }
@@ -19,8 +22,9 @@ const mapStateToProps=(state)=>{
 
 const mapDispatchToProps=(dispatch)=>{
     return{
-        sellBall:()=>{
-            dispatch({ type: "SELL_BALL" });
+        sellBall: (qty) => {
+            //action object-> type
+            dispatch({ type: "SELL_BALL" , payload:qty});
         }
     }
 }
