@@ -7,7 +7,7 @@ const BallReducer = (state = intialState, action) => {
         case "SELL_BALL":
             return {
                 ...state,
-                balls: state.balls - action.payload
+                balls: state.balls - action.payload 
             };
         default:
         return state;

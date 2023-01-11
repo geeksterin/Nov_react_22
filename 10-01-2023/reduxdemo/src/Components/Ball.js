@@ -23,7 +23,7 @@ const mapStateToProps=(state)=>{
 const mapDispatchToProps=(dispatch)=>{
     return{
         sellBall: (qty) => {
-            //action object-> type
+            //action object-> type,payload
             dispatch({ type: "SELL_BALL" , payload:qty});
         }
     }
