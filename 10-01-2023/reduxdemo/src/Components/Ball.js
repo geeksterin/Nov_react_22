@@ -16,7 +16,7 @@ function Ball({ballss,sellBall}) {
 //it gets it's value from reducer function , then it returns an object to the component (as props) in which it is defined with the help of connect. Then component(i.e. Ball) uses that object
 const mapStateToProps=(state)=>{
     return{
-        ballss:state.balls,
+        ballss:state.ball.balls,
     }
 }
 
