@@ -63,3 +63,9 @@ https://beta.reactjs.org/reference/react/useCallback
 11/1/23
 
 https://blog.logrocket.com/understanding-redux-tutorial-examples/
+
+12/1/23
+
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts#what-is-redux
+
+https://redux.js.org/tutorials/quick-start
