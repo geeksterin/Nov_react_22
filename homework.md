@@ -69,3 +69,7 @@ https://blog.logrocket.com/understanding-redux-tutorial-examples/
 https://redux.js.org/tutorials/essentials/part-1-overview-concepts#what-is-redux
 
 https://redux.js.org/tutorials/quick-start
+
+13/1/23
+
+https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl
