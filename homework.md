@@ -73,3 +73,7 @@ https://redux.js.org/tutorials/quick-start
 13/1/23
 
 https://dev.to/raaynaldo/rtk-query-tutorial-crud-51hl
+
+14/1/23
+
+https://www.interviewbit.com/react-interview-questions/#name-few-techniques-to-optimize-react-app-performance
